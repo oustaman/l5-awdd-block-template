@@ -22,11 +22,11 @@
 
 > **IMPORTANT -[Read the assignment overview - The brief](the-brief.md)**.
 
-The project is broken down into 5 separate submission points. Submission Point 5 is the final submission date from which the whole project (your Guide website and this portfolio of documents) is assessed.
+The project is broken down into 5 separate submission points. Submission Point 5 is the final submission date from. Your Guide website and this portfolio of documents (the whole project) is assessed.
 
-SP1-4 are check points to provide 'formative' feedback. Each of these are worth marks for engagement and professionalism.
+SP1-4 are checkpoints to provide 'formative' feedback. Each of these is worth marks for engagement and professionalism.
 
-Ultimately (submission point 5) you will be submitting this repository which will contain your completed Portfolio and Guide website. All the elements are listed and should be [linked from portfolio.md](portfolio.md) to make your work easier to mark. **Use the list of documents on that page as a checklist prior to submission.**
+Ultimately (submission point 5) you will be submitting this repository, containing your completed Portfolio and Guide website. All the elements are listed and should be [linked from portfolio.md](portfolio.md) to make your work easier to mark. **Use the list of documents on that page as a checklist before submission.**
 
 ## Submission point briefings
 
@@ -40,7 +40,7 @@ These documents outline what you need to prepare before each submission point. Y
 
 ## Submission point marksheets
 
-These are the marksheets we will use to create our feedback to the group - use them as a way of preparing for each submission point: have you covered everything we will be assessing? What sort of mark do you think your work deserves?
+These are the marksheets we will use to create our feedback to the group - use them to prepare for each submission point: have you covered everything we will be assessing? What sort of mark do you think your work deserves?
 
 - [SP 1 Marksheet](marksheets/sp1-marksheet.docx) - User and Competitor research
 - [SP 2 Marksheet](marksheets/sp2-marksheet.docx) - IA and Content Strategy
@@ -60,8 +60,8 @@ These are the marksheets we will use to create our feedback to the group - use t
 - Set frequent deadlines for all of the various elements of the project when relevant.
 - Support each other by meeting each deadline with your personal contribution.
 - Meet physically or virtually out of class time. Think about what needs to be done synchronously or asynchronously.
-- Set up and agree communications channels.
-- Each team member should read the instructions for each element - don't rely on the project manager alone.
+- Set up and agree on communications channels.
+- Each team member should read the instructions for each element - do not rely on the project manager alone.
 - Track contributions on GiHub. If someone is failing to contribute their fair share to the group, manage this or discuss the issues with the tutors **urgently**.
 - Make the most of every taught session to move the project forward.
 
@@ -71,17 +71,18 @@ Every team member **must** contribute to each submission point to get the marks.
 
 ## Guidelines for good Group Working
 
-1. Everyone in the group should ensure that they can be contacted easily by other members of the group by giving them adequate contact information.
+1. Everyone in the group should ensure that they can be contacted easily by other team members by giving them adequate contact information.
 
 2. When working in a group, please treat other members of the group with courtesy and respect their opinions, even if you do not necessarily agree with them. Create an atmosphere where you all feel you can check and contribute to documents before submission.
 
 3. You are expected to make a full and fair contribution to the work of the group.
 
-4. When you agree to undertake a task that has been assigned to you by the group you must try work to the agreed deadline since failure to do so could impede the progress of the whole project.
+4. When you agree to undertake a task that has been assigned to you by the group, you must try work to the agreed deadline. Failure to do so could impede the progress of the whole project.
 
-5. You have the right, naturally, to challenge other’s opinions but please try to do it in a professional way.
+5. You have the right, naturally, to challenge other’s opinions but please try to do it professionally.
 
-6. It is your responsibility to attend all meetings arranged by the group to advance the project, and to arrive at those meetings on time. If you can’t attend a meeting of the group you should consider providing your input in written form and giving this to the other group members before the meeting.
+6. It is your responsibility to attend all meetings arranged by the group to advance the project and arrive at those meetings on time. If you cannot attend a group meeting, you should consider providing your input in written form and giving this to the other group members before the meeting.
+
 
 7. If another member of your group tells you something in confidence, you should respect their wishes.
 
