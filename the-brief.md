@@ -1,10 +1,10 @@
 # THE BRIEF - A Guide to Manchester
 
-Your tutors are acting as the client - in this scenario they are representing and making decisions on behalf of Manchester Metropolitan University.
+Your tutors are acting as the client - in this scenario, they represent and make decisions on behalf of Manchester Metropolitan University.
 
 ## Overview
 
-Manchester Metropolitan University are employing a number of digital agencies (your teams) to create a variety of topic-specific guides for students, their friends and families.
+Manchester Metropolitan University employs several digital agencies (your teams) to create a variety of topic-specific guides for students, their friends and families.
 
 Each team should select a topic/focus for the guide they are to create. You will consult with the client throughout to ensure the concept, design and content meet client and audience requirements.
 
@@ -17,7 +17,7 @@ You will develop an initial idea for your ‘guide’ in the early stages of the
 - Creation of an original logo.
 - An attractive, contemporary design.
 - Creation of original media.
-- High quality media including images and original text.
+- High-quality media, including images and original text.
 - All media must be sourced or created by your team within the guidelines set by the client.
 - Your site must be built with responsive web design principles.
 - The site should be highly usable, following the _design for all_ ethos.
@@ -26,23 +26,23 @@ You will develop an initial idea for your ‘guide’ in the early stages of the
 
 ### Images, text and video are ‘illustrative’
 
-**What do we mean by this?** The assignment does not require pages and pages of content: imagine what you are producing is an example of each type of page the site requires, and each user journey you have mapped out. This allows the client to use your example pages to brief some ‘in-house’ employees on how the rest of the site should be completed.
+**What do we mean by this?** The assignment does not require pages and pages of content. Imagine what you are producing: an example of each page the site needs, and each user journey you have mapped out. This allows the client to use your example pages to brief some ‘in-house’ employees on how the rest of the site should be completed.
 
-They should represent the level of quality you expect anyone working on the site to reach: so provide high quality images, engaging, spell-checked and grammatical content, optimised images, commented code, and any other resources you would want if you were in the same position.
+They should represent the level of quality you expect anyone working on the site to reach: so provide high-quality images, engaging, spell-checked and grammatical content, optimised images, commented code, and any other resources you would want if you were in the same position.
 
 ## Technical requirements
 
 **The client requires original coding from the team. Specifically, there can be no use of pre-built frameworks such as Bootstrap or React.**
 
 - All pages must be coded in valid, semantic HTML5.
-- All presentation must be applied using a single CSS (Cascading Style Sheet) file for efficient site maintenance and to enable rapid amendment or updating to meet changing operational needs.
+- All presentation must be applied using a single CSS (Cascading Style Sheet) file for efficient site maintenance and to enable rapid amendment or update to meet changing operational needs.
 - The website must be developed to be responsive on various platforms. Testing on real devices is encouraged.
 - If you want to use a chunk of code from a tutorial or such, seek permission from the client (tutors).
 - Any materials used must not infringe copyright or trademarks.
 - If needed, the client will provide the MMU logo in various formats. Do not use any other versions.
 - The client will expect a balance between engaging content (e.g. photography) and fast download speeds, so your images need to be optimised for the web.
 - Each page must carry a standard disclaimer -- the text will be provided by the tutors as disclaimer.txt.
-- A prototype of a `PHP/MySQL` database driven section created in consultation with the client.
+- A prototype of a `PHP/MySQL` database-driven section created in consultation with the client.
 
 ## Required practices
 
@@ -50,7 +50,7 @@ All coding and implementation must follow our [Required Practices for Web Develo
 
 ## Submission Points
 
-Tutors will guide each team through the web development process via a number of submission points.
+Tutors will guide each team through the web development process via several submission points.
 
 - **SP1** - User and Competitor research
 - **SP2** - IA and Content strategy
@@ -58,12 +58,12 @@ Tutors will guide each team through the web development process via a number of 
 - **SP4** - Usability testing
 - **SP5** - The Guide &amp; Portfolio completed
 
-Most weeks your team will attend a meeting with tutors to discuss your progress, address issues and answer questions.
+Most weeks, your team will attend a meeting with tutors to discuss your progress, address issues and answer questions.
 
-As well as building a web site you are creating a portfolio of evidence. Each of these elements has its own brief.
+As well as building a web site, you are creating a portfolio of evidence. Each of these elements has its own brief.
 
 ## Briefs &amp; Marksheets
 
-Using the briefs and mark sheets for each submission point in conjunction with this client brief will help ensure that you are delivering the required elements at each stage.
+Using the briefs and mark sheets for each submission point in conjunction with this client brief will help ensure that you deliver the required elements at each stage.
 
-**Any questions?** Ask the tutors at your next sprint meeting. Decide if it is it a question for the tutor or a question for the client.
+**Any questions?** Ask the tutors at your next sprint meeting. Decide if it is a question for the tutor or for the client.
